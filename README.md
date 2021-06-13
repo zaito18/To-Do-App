@@ -1,6 +1,10 @@
 # ToDoApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4.
+Para poder visualizar correctamente la applicacion, debera tener creada una base de datos MySql llamada mydb con credenciales usuario y password : root, aunque estas credenciales pueden cambiarse facilmente desde el archivo Application.properties de Spring.
+Seguido a esto debera ejecutar el archivo .sh generado en la carpeta api de spring, a continuacion continue con el script de inicializacion de angular.
+
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.4 || Spring-Boot 2.5.1 || Mysql 8.0.25
 
 ## Development server
 
